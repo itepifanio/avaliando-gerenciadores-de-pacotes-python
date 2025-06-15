@@ -1,0 +1,17 @@
+[project]
+name = "avaliando-gerenciadores-de-pacotes-python"
+version = "0.1.0"
+description = "pyproject para ser usado pelo poetry"
+authors = [
+    {name = "Ítalo Epifânio",email = "italoepifaniols@gmail.com"}
+]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
