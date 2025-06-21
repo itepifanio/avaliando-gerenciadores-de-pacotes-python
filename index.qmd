@@ -257,7 +257,7 @@ venv e rodaríamos o `poetry install`, `poetry add some-dep`, `poetry update`
   soluções maduras que atendem nossos requisitos
 - uv tem sido experimentada nos últimos meses e sua velocidade vem intrigando o time a iniciar sua adoção
 
-## Referências
+## Referências {.smaller}
 
 - [An unbiased evaluation of environment management and packaging tools](https://alpopkes.com/posts/python/packaging_tools/)
 - [Como poetry usa .lock cross platform](https://discuss.python.org/t/insights-into-how-poetry-lock-works-cross-platform/17846/30)
@@ -265,3 +265,5 @@ venv e rodaríamos o `poetry install`, `poetry add some-dep`, `poetry update`
 - [PEP 665 lock file rejeitada](https://peps.python.org/pep-0665/)
 - [PEP 751 – A file format to record Python dependencies for installation reproducibility](https://peps.python.org/pep-0751/)
 - [Faster conda install](https://pythonspeed.com/articles/faster-conda-install/)
+
+![Github com apresentação](images/github-repo.svg)
