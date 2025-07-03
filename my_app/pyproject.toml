@@ -1,15 +1,14 @@
 [project]
-name = "my-django"
+name = "my-app"
 version = "0.1.0"
 description = ""
 authors = [
     {name = "Ítalo Epifânio",email = "italoepifaniols@gmail.com"}
 ]
-license = {text = "MIT"}
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
-    "my-requests @ file:///home/italo/open/avaliando-gerenciadores-de-pacotes-python/my_requests"
+    "my-django @ file:///home/italo/open/avaliando-gerenciadores-de-pacotes-python/my_django"
 ]
 
 

@@ -2,3 +2,5 @@ index.html
 index_files
 venv
 __pycache__
+*.egg-info
+build

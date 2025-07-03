@@ -1,12 +1,12 @@
 [project]
-name = "example_package_YOUR_USERNAME_HERE"
-version = "0.0.1"
+name = "my-requests"
+version = "1.0.0"
 authors = [
-  { name="Example Author", email="author@example.com" },
+  { name="Ítalo Epifânio", email="italoepifaniols@gmail.com" },
 ]
 description = "A small example package"
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.11"
 classifiers = [
     "Programming Language :: Python :: 3",
     "Operating System :: OS Independent",
