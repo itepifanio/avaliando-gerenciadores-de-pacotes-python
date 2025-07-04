@@ -1,15 +1,14 @@
 [project]
-name = "avaliando-gerenciadores-de-pacotes-python"
+name = "my-app"
 version = "0.1.0"
-description = "pyproject para ser usado pelo poetry"
+description = ""
 authors = [
     {name = "Ítalo Epifânio",email = "italoepifaniols@gmail.com"}
 ]
-license = {text = "MIT"}
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
-    "requests (>=2.32.4,<3.0.0)"
+    "my-django @ file:///home/italo/open/avaliando-gerenciadores-de-pacotes-python/my_django"
 ]
 
 
